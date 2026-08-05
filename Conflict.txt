@@ -1,2 +1,1 @@
-There will be a conflict
-Conflict is here!
+Hello form another_branch!
